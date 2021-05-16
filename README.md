@@ -1,0 +1,2 @@
+# GSOM_Project1
+Applied Rough Tolerance Theory in Normal G-SOM to deal with vagueness and uncertainty in datasets. •Presented a comparative experimental evaluation of the important validity measures (SI &amp;DB indices) over 12 datasets using python. •Expanded Data-sets and included boundary data points by using rough model with tolerance on normal G-SOM. •Used k-means algorithm to find homogeneous subgroups to compare it with true label to evaluate its performance.
